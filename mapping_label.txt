@@ -1,0 +1,26 @@
+Amp Mag Drift: 0
+
+Step Change Amp Mag: 1
+
+Bundle R: 2
+
+Process Instability Amp Mag (Package): 3
+
+Amp Mag Drift Within Package : 4
+
+Short Doff - Restring: 5
+
+Tack Level Warning: 6
+
+Variable Fiber: 7
+
+Changeover Package: 8
+
+Low Tack: 9
+
+Winder Issue: 10
+
+Node Drift Within Package: 11
+
+Anti Stat Dropped: 12
+
